@@ -1,0 +1,36 @@
+Accession		Title	SampleType	Description	DataProcessing	PlatformRef	ChannelCount	Source	Organism	disease status
+GSM997850	CON	parotid tissue from control 1	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997851	CON	parotid tissue from control 2	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997852	CON	parotid tissue from control 3	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997853	CON	parotid tissue from control 4	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997854	CON	parotid tissue from control 5	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997855	CON	parotid tissue from control 7	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997856	CON	parotid tissue from control 8	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997857	CON	parotid tissue from control 9	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997858	CON	parotid tissue from control 10	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997859	CON	parotid tissue from control 12	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997860	CON	parotid tissue from control 13	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997861	CON	parotid tissue from control 14	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997862	CON	parotid tissue from control 15	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997863	CON	parotid tissue from control 16	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997864	CON	parotid tissue from control 17	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997865	CON	parotid tissue from control 18	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997866	CON	parotid tissue from control 19	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997867	CON	parotid tissue from control 20	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from control	Homo sapiens	Control
+GSM997868	pSS	parotid tissue from primary Sjogren syndrome patient 1	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997869	pSS	parotid tissue from primary Sjogren syndrome patient 2	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997870	pSS	parotid tissue from primary Sjogren syndrome patient 3	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997871	pSS	parotid tissue from primary Sjogren syndrome patient 4	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997872	pSS	parotid tissue from primary Sjogren syndrome patient 5	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997873	pSS	parotid tissue from primary Sjogren syndrome patient 6	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997874	pSS	parotid tissue from primary Sjogren syndrome patient 7	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997875	pSS	parotid tissue from primary Sjogren syndrome patient 8	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997876	pSS	parotid tissue from primary Sjogren syndrome patient 9	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997877	pSS	parotid tissue from primary Sjogren syndrome patient 10	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997892	pSS	parotid tissue from primary Sjogren syndrome patient 13	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997893	pSS	parotid tissue from primary Sjogren syndrome patient 14	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997894	pSS	parotid tissue from primary Sjogren syndrome patient 15	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997895	pSS	parotid tissue from primary Sjogren syndrome patient 16	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997896	pSS	parotid tissue from primary Sjogren syndrome patient 17	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997897	pSS	parotid tissue from primary Sjogren syndrome patient 18	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
+GSM997898	pSS	parotid tissue from primary Sjogren syndrome patient 19	RNA		Microarray data were processed and normalized using MAS5.	GPL570	1	parotid tissue from primary Sjogren syndrome patient	Homo sapiens	pSS
